@@ -6,7 +6,10 @@ This tool downloads reasearch papers, books, etc for a given topic and can perfo
 3. make use of research.py --help to know more
 
 # Process for smilarity finding
-this program first calculates the tf-idf then the cosign smilarity for the documents:
+this program first calculates the tf-idf:
+![image](https://github.com/theghostrat/auto-researcher/assets/126747878/b6b038bc-66fa-4829-9485-e02ceca4d466)
+
+then the cosign smilarity for the documents:
 ![image](https://github.com/theghostrat/auto-researcher/assets/126747878/e20c4263-ab26-4b2b-8a5d-85aca34674ea)
 
 #Future
